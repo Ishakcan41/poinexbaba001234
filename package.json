@@ -1,0 +1,31 @@
+{
+  "//1": "Lrows & Fozen",
+  "//2": "https://discord.gg/Qfj3FRM",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Lrows & Fozen",
+  "main": "Lrows.js",
+  "scripts": {
+    "start": "node Lrows.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "fs": "^0.0.2",
+    "enmap": "^5.8.3",
+    "express": "^4.17.1",
+    "croxydb": "^0.0.7",
+    "ms": "^2.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

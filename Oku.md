@@ -1,0 +1,1 @@
+Altyapıda **ayar.json** ve**config.json** ayarlamanız botun çalışması için yeterlidir.
